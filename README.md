@@ -1,6 +1,6 @@
 ## ICDL2023
 
-A repository for reproducing the results presented in ICDL 2023 submission.
+A repository for reproducing the results presented in the following paper: Interplay between neural computational energy and multimodal processing in robot-robot interaction. Murat Kirtay, Verena V. Hafner, Minoru Asada, Erhan Oztop, IEEE International Conference on Development and Learning (ICDL), (2023), (The best paper award nomination). (Accepted for publication)
 
 > **Abstract:** the abstract will be added later.
 
